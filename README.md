@@ -29,27 +29,32 @@ Proyek ini dikembangkan untuk memenuhi **Ujian Tengah Semester (UTS)** dengan to
 ---
 
 🔧 1. Setup Backend
+```bash
 cd backend
 npm install
 npm run start
+```
 📍 Aplikasi backend akan berjalan di: http://localhost:3000
 
 💻 2. Setup Frontend
+```bash
 cd frontend
 npm install
 npm run dev
+```
 📍 Aplikasi frontend akan berjalan di: http://localhost:5173
 
 🗂️ Struktur Folder
-sistem-akademik-uts/
+
+<pre>sistem-akademik-uts/
 ├── backend/         # API NestJS
 │   └── src/
 ├── frontend/        # UI React
 │   └── src/
 ├── README.md
-
-👨‍💻 Developer
+</pre>
+### 👨‍💻 Developer
 Nama: Andhika Aria Fajar
 
-📬 Kontak
+### 📬 Kontak
 📧 hika@andhikaariafajar.com
